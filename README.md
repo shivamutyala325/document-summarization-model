@@ -1,4 +1,4 @@
-# Document Summarizer & QnA Chatbot
+# Document Summarizer & QnA Chatbot with RAG
 
 This project includes two main functionalities:
 Document Summarization, Q&A Chatbot Based on Document Context
@@ -25,7 +25,7 @@ This module allows you to summarize a document using a locally downloaded Huggin
 
 ---
 
- 2. Q&A Chatbot
+ 2. Q&A Chatbot with RAG
 
 # Files Involved:
 - `download_qa_model.py`
